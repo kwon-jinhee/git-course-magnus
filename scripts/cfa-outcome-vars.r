@@ -1,5 +1,6 @@
 # Load packages
 library("lavaan")
+library("magrittr") # for %>% syntax
 
 # Set seed
 set.seed(666)
